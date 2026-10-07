@@ -1,0 +1,19 @@
+{
+  "pairs": [
+    {
+      "outlook": "Calendar",
+      "google": "Outlook Sync",
+      "create": ["google"]
+    },
+    {
+      "outlook": "Google Sync",
+      "google": "primary",
+      "create": ["outlook"]
+    },
+    {
+      "outlook": "Fall 26 UIUC",
+      "google": "UIUC Fall 26",
+      "create": ["google"]
+    }
+  ]
+}
