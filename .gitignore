@@ -1,0 +1,17 @@
+# ---- Credentials and tokens: never commit these ----
+google_credentials.json
+outlook_credentials.json
+token_google.json
+token_outlook.json
+
+# ---- Local sync state: contains your own calendar data ----
+sync_state.json
+
+# ---- Your local calendar pairing (copy from sync_config.example.json) ----
+sync_config.json
+
+# ---- Python ----
+venv/
+.venv/
+__pycache__/
+*.py[cod]
